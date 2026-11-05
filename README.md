@@ -78,11 +78,11 @@ dashboard is intended to make customer shopping patterns and key
 business metrics easier to understand.
 Project Files
 Customer_Behavior_Analysis/
-├── customer_behavior_analysis.ipynb
-├── customer_behavior_sql_queries.sql
-├── customer_behaviour_dashboard.pbix
-├── customer_shopping_behavior_dataset.csv
-└── README.md
+-customer_behavior_analysis.ipynb
+-customer_behavior_sql_queries.sql
+-customer_behaviour_dashboard.pbix
+-customer_shopping_behavior_dataset.csv
+-README.md
 How to Run the Project
 1. Clone the repository
 git clone https://github.com/<your-username>/Customer_Behavior_Analysis.git
